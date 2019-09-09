@@ -1,0 +1,9 @@
+BREED;"Affenpinscher";30
+BREED;"Havaneser";27
+BREED;"Basenji";43
+BREED;"Dobermann";72
+DOG;"Arko";41;"Basenji"
+BREED;"Rhodesian Ridgeback";69
+DOG;"Tino";63;"Rhodesian Ridgeback"
+DOG;"Bello";27;"Affenpinscher"
+DOG;"Timmy";45;"Golden Retriever"
